@@ -10,7 +10,7 @@ pipeline{
             steps{
                 gitCheckout(
                     branch: "master",
-                    url: "https://github.com/Indianche/demojava.gitt"
+                    url: "https://github.com/Indianche/demojava.git"
                 )
             }
         }
